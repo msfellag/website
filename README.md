@@ -17,3 +17,6 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 [*The official Git documentation*](https://git-scm.com/)
+
+Oh joy. Rejoice for we solved the ssh config step. (sorry i needed to commit something
+to verify if it really worked)
